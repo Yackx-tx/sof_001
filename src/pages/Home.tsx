@@ -51,7 +51,7 @@ export const Home = () => {
               </Button>
             </Link>
             <Link to="/get-involved">
-              <Button size="lg" variant="outline" className="bg-white/10 border-white text-white hover:bg-white hover:text-primary">
+              <Button size="lg" variant="outline" className="bg-white/10 border-white text-white hover:bg-white/20 hover:text-primary">
                 Donate Now
               </Button>
             </Link>
